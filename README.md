@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hatim</h1>
-<h3 align="center">Junior SE from Morroco, currently working in France and trying to learn as much as possible and expand his knowledge of DevOps applications and tools.</h3>
+<h3>Junior SE from Morroco, currently working in France and trying to learn as much as possible and expand his knowledge of DevOps applications and tools.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=justmitah&label=Profile%20views&color=0e75b6&style=flat" alt="justmitah" /> </p>
 
